@@ -1,7 +1,13 @@
 ---
-title: "meds-blog-cgg"
+title: "EDS220 example blog"
+image: landing-page-image.jpg
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 35em
 ---
 
-This is a Quarto website.
+This is a simple Quarto website to exemplify how to add blog posts with Python code into quarto.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Image credit:  Darwin Wiggett / Getty Images
